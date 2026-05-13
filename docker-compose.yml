@@ -1,0 +1,10 @@
+services:
+  ml-deployment-lab:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./logs:/app/logs
+      - ./models:/app/models
+      - ./data:/app/data
+      - ./reports:/app/reports
