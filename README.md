@@ -95,5 +95,3 @@ Run `pytest`.
 ## Future Improvements
 Prometheus/Grafana metrics, MLflow tracking, CI/CD with GitHub Actions, model versioning, drift detection, batch scoring, auth, cloud deployment, Kubernetes, database-backed logging, async inference queue, and richer simulation.
 
-## Portfolio / CV Relevance
-This project demonstrates the ability to move beyond notebooks and build a deployable ML service with API serving, testing, Dockerization, and basic monitoring.
